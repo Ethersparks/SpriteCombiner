@@ -1,6 +1,5 @@
 # SpriteCombiner
 code for stitching assets into sparks
-# React / Node Ethersparks Landing page
 
 ## Getting Started
 
